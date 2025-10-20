@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm John Belthoff
 
-<!--
-**JBelthoff/JBelthoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Audio Engineer**, **Full-Stack Web Developer**, and **Musician**.  
+I build applications that blend creativity with technology — from digital I Ching oracles to advanced poker hand evaluators.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Featured Projects
+- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) — modern ASP.NET Core app for Texas Hold’em hand evaluation.
+- 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) — the original version that started it all.
+- ☯️ [**I Ching Oracle**](https://iching.rocks) — a modern approach to ancient wisdom.
+
+---
+
+### 🔧 Skills & Technologies
+`C#` • `ASP.NET Core` • `Razor Pages` • `SQL Server` • `Docker` • `JavaScript` • `HTML/CSS` • `Audio Engineering`
+
+---
+
+### 🌐 Websites
+- [johnbelthoff.com](https://www.johnbelthoff.com)
+- [audio.johnbelthoff.com](https://audio.johnbelthoff.com)
+- [iching.rocks](https://iching.rocks)
+
+---
+
+> _“Precision, creativity, and clarity — in code and in sound.”_
