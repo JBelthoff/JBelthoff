@@ -2,14 +2,14 @@
 
 🎧 **Audio Engineer** • 💻 **Full-Stack Web Developer** • 🎸 **Musician**
 
-I build applications that blend creativity with technology — from digital I Ching oracles to advanced poker hand evaluators.
+I build applications that blend creativity with technology - from digital I Ching oracles to advanced poker hand evaluators.
 
 ---
 
 ### 👋 About Me
 
 I’m a full-stack engineer and audio professional who designs, develops, and deploys web applications using modern .NET technologies.  
-My work bridges software and infrastructure — from crafting Razor-based web interfaces and data-driven backends to automating containerized deployments across Linux and Windows environments.  
+My work bridges software and infrastructure - from crafting Razor-based web interfaces and data-driven backends to automating containerized deployments across Linux and Windows environments.  
 I build solutions that emphasize performance, reliability, and clarity, backed by hands-on experience in systems engineering, DevOps, and creative technology.
 
 ---
@@ -77,9 +77,9 @@ I build solutions that emphasize performance, reliability, and clarity, backed b
 ---
 
 ### 🎯 Featured Projects
-- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) — modern ASP.NET Core app for Texas Hold’em hand evaluation.  
-- 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) — the original version that started it all.  
-- ☯️ [**I Ching Oracle**](https://iching.rocks) — a modern approach to ancient wisdom.
+- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) - modern ASP.NET Core app for Texas Hold’em hand evaluation.  
+- 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) - the original version that started it all.  
+- ☯️ [**I Ching Oracle**](https://iching.rocks) - a modern approach to ancient wisdom.
 
 ---
 
@@ -95,4 +95,4 @@ I build solutions that emphasize performance, reliability, and clarity, backed b
 
 ---
 
-> _"Precision, creativity, and clarity — in code and in sound."_
+> _"Precision, creativity, and clarity - in code and in sound."_
