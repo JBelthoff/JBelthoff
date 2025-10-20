@@ -8,6 +8,7 @@ I build applications that blend creativity with technology - from digital I Chin
 
 ### 🧰 Tech Stack
 
+#### Core Stack
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![.NET Framework 4.x](https://img.shields.io/badge/.NET%20Framework%204.x-512BD4?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/framework/)
