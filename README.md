@@ -1,14 +1,14 @@
 # 👋 Hi, I'm John Belthoff
 
 I'm an **Audio Engineer**, **Full-Stack Web Developer**, and **Musician**.  
-I build applications that blend creativity with technology — from digital I Ching oracles to advanced poker hand evaluators.
+I build applications that blend creativity with technology - from digital I Ching oracles to advanced poker hand evaluators.
 
 ---
 
 ### 🎯 Featured Projects
-- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) — modern ASP.NET Core app for Texas Hold’em hand evaluation.
-- 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) — the original version that started it all.
-- ☯️ [**I Ching Oracle**](https://iching.rocks) — a modern approach to ancient wisdom.
+- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) - modern ASP.NET Core app for Texas Hold’em hand evaluation.
+- 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) - the original version that started it all.
+- ☯️ [**I Ching Oracle**](https://iching.rocks) - a modern approach to ancient wisdom.
 
 ---
 
