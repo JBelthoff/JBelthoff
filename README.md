@@ -18,7 +18,7 @@ I build applications that blend creativity with technology — from digital I Ch
 ---
 
 ### 🌐 Websites
-- [johnbelthoff.com](https://www.johnbelthoff.com)
+- [www.johnbelthoff.com](https://www.johnbelthoff.com)
 - [audio.johnbelthoff.com](https://audio.johnbelthoff.com)
 - [iching.rocks](https://iching.rocks)
 
