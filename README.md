@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Belthoff
+# I'm John Belthoff
 
 🎧 **Audio Engineer** • 💻 **Full-Stack Web Developer** • 🎸 **Musician**
 
