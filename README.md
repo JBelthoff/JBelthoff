@@ -2,9 +2,14 @@
 
 🎧 **Audio Engineer** • 💻 **Full-Stack Web Developer** • 🎸 **Musician**
 
-I build experiences at the intersection of **sound, code, and creativity** — from digital I Ching oracles and modern .NET web applications to audio systems for broadcast and live production.
+### 🎯 About My Work
+
+I design **digital experiences that unite sound, code, and human insight** — whether it’s a **cloud-based I Ching oracle for curious minds** or a **high-performance .NET system for real-time analysis**.
+
+My work bridges creativity and precision, helping people explore ideas, data, and meaning through thoughtfully engineered technology.
 
 ---
+
 
 ### 🧭 About Me
 
