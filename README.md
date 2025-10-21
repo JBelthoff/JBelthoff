@@ -1,18 +1,26 @@
-# I'm John Belthoff
+# 👋 I'm John Belthoff
 
 🎧 **Audio Engineer** • 💻 **Full-Stack Web Developer** • 🎸 **Musician**
 
-I build applications that blend creativity with technology - from digital I Ching oracles to advanced poker hand evaluators.
+I build experiences at the intersection of **sound, code, and creativity** — from digital I Ching oracles and modern .NET web applications to audio systems for broadcast and live production.
 
 ---
 
-### 👋 About Me
+### 🧭 About Me
 
-I’m a full-stack engineer and audio professional who designs, develops, and deploys web applications using modern .NET technologies.  
-My work bridges software and infrastructure - from crafting Razor-based web interfaces and data-driven backends to automating containerized deployments across Linux and Windows environments.  
-I build solutions that emphasize performance, reliability, and clarity, backed by hands-on experience in systems engineering, DevOps, and creative technology.
+With decades of experience spanning professional **audio engineering**, **C#/.NET web development**, and **music production**, I thrive on solving technical challenges that demand both logic and artistry.  
+
+I’ve engineered for national television, built cloud-based web apps, and created platforms that merge ancient philosophy with modern technology — all unified by a single principle: **clarity through precision**.
 
 ---
+### 🚀 Current Focus
+
+- **[I Ching Rocks](https://iching.rocks)** — Building an AI-driven I Ching Oracle and learning hub with a forthcoming membership area for personalized readings.  
+- **[Poker Hand Evaluator](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 8 hand evaluator using optimized algorithms and Dapper for speed.  
+- **Studio & Broadcast Audio** — Supporting live event mixing, routing, and system design with Calrec, Yamaha QL/Rivage, Dante networking, and Shure/Sennheiser wireless systems.
+
+---
+
 
 ### 🧰 Tech Stack
 
@@ -76,8 +84,16 @@ I build solutions that emphasize performance, reliability, and clarity, backed b
 
 ---
 
+### 💡 Philosophy
+
+> “Precision, creativity, and clarity – in code and in sound.”  
+
+Whether tuning a console or optimizing a query, I approach every system as an instrument — balancing structure, rhythm, and flow.
+
+---
+
 ### 🎯 Featured Projects
-- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) - modern ASP.NET Core app for Texas Hold’em hand evaluation.  
+- 🃏 [**Poker Hand Evaluator (.NET Core)**](https://github.com/JBelthoff/poker.net) - A high-performance .NET 8 hand evaluator using optimized algorithms and Dapper for speed.  
 - 🧩 [**Legacy Poker Evaluator (ASP.NET WebForms)**](https://github.com/JBelthoff/poker.johnbelthoff.com) - the original version that started it all.  
 - ☯️ [**I Ching Oracle**](https://iching.rocks) - a modern approach to ancient wisdom.
 
