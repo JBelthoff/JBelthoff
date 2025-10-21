@@ -4,10 +4,9 @@
 
 ### 🎯 About My Work
 
-I design **digital experiences that unite sound, code, and human insight** — whether it’s a **cloud-based I Ching oracle for curious minds** or a **high-performance .NET system for real-time analysis**.
+I design **digital experiences that unite sound, code and human insight** — whether it’s a **cloud-based I Ching oracle for curious minds** or a **high-performance .NET system for real-time analysis**.
 
-My work bridges creativity and precision, helping people explore ideas, data, and meaning through thoughtfully engineered technology.
-
+My aim is to help creators and organizations translate ideas into immersive, responsive solutions that combine precision engineering with expressive design.
 ---
 
 
