@@ -73,9 +73,11 @@ C# • .NET 8 • ASP.NET Core • Razor Pages • SQL Server • Docker • Kub
 ---
 
 ### 🌐 Websites
-- [johnbelthoff.com](https://www.johnbelthoff.com)  
+- [www.johnbelthoff.com](https://www.johnbelthoff.com)
+- [angular.johnbelthoff.com](https://angular.johnbelthoff.com)  
 - [audio.johnbelthoff.com](https://audio.johnbelthoff.com)  
 - [iching.rocks](https://iching.rocks)
+- [ballistics.systems](https://ballistics.systems)
 
 ---
 
