@@ -20,7 +20,7 @@ I’ve engineered for national television, built cloud-based web apps, and creat
 
 ### 🚀 Current Focus
 - **[I Ching Rocks](https://iching.rocks)** — Building an AI-driven I Ching Oracle and learning hub with a forthcoming membership area for personalized readings.  
-- **[Poker Hand Evaluator](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 8 hand evaluator using optimized algorithms and Dapper for speed.  
+- **[Poker Hand Evaluator](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 10 hand evaluator using optimized algorithms and Dapper for speed.  
 - **Studio & Broadcast Audio** — Supporting live event mixing, routing, and system design with Calrec, Yamaha QL/Rivage, Dante networking, and Shure/Sennheiser wireless systems.
 
 ---
