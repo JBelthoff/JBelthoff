@@ -19,6 +19,7 @@ I’ve engineered for national television, built cloud-based web apps, and creat
 ---
 
 ### 🚀 Current Focus
+- **[Ballistics.Systems](https://ballistics.systems)** — Building a precision ballistics calculator suite (twist-rate & stability, ladder testing, and more) with production-grade UX, reporting, and performance-minded engineering. 
 - **[I Ching Rocks](https://iching.rocks)** — Building an AI-driven I Ching Oracle and learning hub with a forthcoming membership area for personalized readings.  
 - **[Poker Hand Evaluator](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 10 hand evaluator using optimized algorithms and Dapper for speed.  
 - **Studio & Broadcast Audio** — Supporting live event mixing, routing, and system design with Calrec, Yamaha QL/Rivage, Dante networking, and Shure/Sennheiser wireless systems.
