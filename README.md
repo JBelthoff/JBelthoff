@@ -1,6 +1,6 @@
 # 👋 I'm John Belthoff
 
-🎧 **Audio Engineer** • 💻 **Full-Stack Web Developer** • 🎸 **Musician**
+🎧 **Audio Engineer** • 💻 **Full-Stack Software Engineer** • 🎸 **Musician**
 
 ---
 
