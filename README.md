@@ -69,7 +69,7 @@ Whether tuning a console or optimizing a query, I approach every system as an in
 ---
 
 ### 🔧 Skills & Technologies
-C# • .NET 8 • ASP.NET Core • Razor Pages • SQL Server • Docker • Kubernetes • Ansible • JavaScript • HTML/CSS • Audio Engineering
+C# • .NET 10 • ASP.NET Core • Razor Pages • SQL Server • Docker • Kubernetes • Ansible • JavaScript • HTML/CSS • Audio Engineering
 
 ---
 
