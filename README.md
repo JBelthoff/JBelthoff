@@ -82,5 +82,5 @@ C# • .NET 10 • ASP.NET Core • Razor Pages • SQL Server • Docker • Ku
 
 ---
 
-© 2025 John Belthoff  
-_“Precision, creativity, and clarity — in code and in sound.”_
+© 2025-2026 John Belthoff  
+_“Creativity, clarity, and precision — in code, music, and sound.”_
