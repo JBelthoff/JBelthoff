@@ -1,6 +1,6 @@
 # John Belthoff
 
-Software engineer. Primary work in .NET, Angular, Sql Server. Background in professional audio.
+Software engineer. Primary work in .NET and Angular. Background in professional audio.
 
 ---
 
@@ -33,11 +33,5 @@ Audio engineering experience in broadcast and live events.
 
 ---
 
-## Repositories
-
-Some repositories represent deployed systems; others explore specific technical questions or constraints.
-
----
-
-External projects:
+## External projects
 [johnbelthoff.com](https://angular.johnbelthoff.com/) · [iching.rocks](https://iching.rocks) · [ballistics.systems](https://ballistics.systems)
