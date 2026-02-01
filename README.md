@@ -1,6 +1,6 @@
 # John Belthoff
 
-Software engineer. Primary work in .NET and Angular. Background in professional audio.
+Software engineer. Primary work in .NET, Angular, Sql Server. Background in professional audio.
 
 ---
 
