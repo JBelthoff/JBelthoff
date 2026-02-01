@@ -1,86 +1,43 @@
-# 👋 I'm John Belthoff
+# John Belthoff
 
-🎧 **Audio Engineer** • 💻 **Full-Stack Software Engineer** • 🎸 **Musician**
-
----
-
-### 🎯 About My Work
-I design **digital experiences that unite sound, code, and human insight** — from a **cloud-based I Ching oracle for curious minds** to a **high-performance .NET system for real-time analysis**.  
-
-My mission is to help creators and organizations bring ideas to life through **immersive, responsive technology** that fuses **precision engineering** with **expressive design**.
+Software engineer. Primary work in .NET and Angular. Background in professional audio.
 
 ---
 
-### 🧭 About Me
-With decades of experience spanning **professional audio engineering**, **C#/.NET web development**, and **music production**, I thrive on solving technical challenges that demand both logic and artistry.  
+## Approach
 
-I’ve engineered for national television, built cloud-based web apps, and created platforms that merge ancient philosophy with modern technology — all unified by a single principle: **clarity through precision**.
-
----
-
-### 🚀 Current Focus
-- **[Ballistics.Systems](https://ballistics.systems)** — Building a precision ballistics calculator suite (twist-rate & stability, ladder testing, and more) with production-grade UX, reporting, and performance-minded engineering. 
-- **[I Ching Rocks](https://iching.rocks)** — Building an AI-driven I Ching Oracle and learning hub with a forthcoming membership area for personalized readings.  
-- **[Poker Hand Evaluator](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 10 hand evaluator using optimized algorithms and Dapper for speed.  
-- **Studio & Broadcast Audio** — Supporting live event mixing, routing, and system design with Calrec, Yamaha QL/Rivage, Dante networking, and Shure/Sennheiser wireless systems.
+- **Explicit over implicit** — Abstractions should reduce complexity, not relocate it.
+- **Measurement before optimization** — Performance work follows profiling.
+- **Security at the boundaries** — Validation and sanitization belong in the architecture.
+- **Stability over novelty** — Familiar tools applied correctly beat novel tools applied hastily.
 
 ---
 
-### 🧰 Tech Stack
+## Current Work
 
-#### 🧠 Core Development
-Primary languages and frameworks for full-stack web development.  
-C# • .NET 8 • .NET Framework 4.x • ASP.NET Core • Razor Pages • ASP.NET MVC • ASP.NET Web Forms
+**Ballistics calculator** — .NET application for precision rifle shooters. Stability calculations, ladder test analysis, environmental corrections.
 
-#### 🗄️ Databases & Caching
-Relational and in-memory systems for performance and persistence.  
-SQL Server • MariaDB • MySQL • Redis
+**I Ching Oracle** — Angular SSR frontend, headless WordPress via GraphQL. Content modeling, SEO metadata, server/browser rendering boundaries.
 
-#### 🖥️ Operating Systems
-Server and workstation platforms used in development and production.  
-Windows Server • Linux (Debian | Ubuntu | Rocky Linux)
-
-#### 🐳 Containers & Orchestration
-Automation, deployment, and scaling across containerized environments.  
-Docker • Kubernetes • Ansible
-
-#### 🌐 Networking & Infrastructure
-Reverse proxies, firewalls, and performance tools for secure, optimized systems.  
-NGINX • pfSense • Cloudflare
-
-#### 🧩 IDEs & Tooling
-Development environments, editors, and workflow tools.  
-Visual Studio • VS Code
+**Poker hand evaluator** — .NET implementation exploring lookup tables and hand ranking algorithms.
 
 ---
 
-### 💡 Philosophy
-> “Precision, creativity, and clarity — in code and in sound.”
+## Background
 
-Whether tuning a console or optimizing a query, I approach every system as an instrument — balancing structure, rhythm, and flow.
+C# and .NET with SQL Server. Docker and NGINX for deployment.
 
----
+Angular and TypeScript for frontend. SSR concerns: platform detection, hydration correctness, cache layering.
 
-### 🎯 Featured Projects
-- 🃏 **[Poker Hand Evaluator (.NET Core)](https://poker-calculator.johnbelthoff.com)** — A high-performance .NET 8 hand evaluator using optimized algorithms and Dapper for speed.  
-- 🧩 **Legacy Poker Evaluator (ASP.NET WebForms)** — The original version that started it all.  
-- ☯️ **[I Ching Oracle](https://iching.rocks)** — A modern approach to ancient wisdom.
+Audio engineering experience in broadcast and live events.
 
 ---
 
-### 🔧 Skills & Technologies
-C# • .NET 10 • ASP.NET Core • Razor Pages • SQL Server • Docker • Kubernetes • Ansible • JavaScript • HTML/CSS • Audio Engineering
+## Repositories
+
+Some repositories represent deployed systems; others explore specific technical questions or constraints.
 
 ---
 
-### 🌐 Websites
-- [www.johnbelthoff.com](https://www.johnbelthoff.com)
-- [angular.johnbelthoff.com](https://angular.johnbelthoff.com)  
-- [audio.johnbelthoff.com](https://audio.johnbelthoff.com)  
-- [iching.rocks](https://iching.rocks)
-- [ballistics.systems](https://ballistics.systems)
-
----
-
-© 2025-2026 John Belthoff  
-_“Creativity, clarity, and precision — in code, music, and sound.”_
+External projects:
+[johnbelthoff.com](https://angular.johnbelthoff.com/) · [iching.rocks](https://iching.rocks) · [ballistics.systems](https://ballistics.systems)
