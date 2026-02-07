@@ -17,7 +17,7 @@ Software engineer. Primary work in .NET and Angular. Background in professional 
 
 **Ballistics calculator** — .NET application for precision rifle shooters. Stability calculations, ladder test analysis, environmental corrections.
 
-**I Ching Oracle** — ASP.NET Core Razor Pages application with OpenAI integration for AI-powered interpretations. Features user authentication (Identity), Stripe payments, SQL Server backend, and SSR via server-rendered Razor views.
+**I Ching Oracle** — ASP.NET Core Razor Pages application with OpenAI integration for AI-powered interpretations. Features user authentication (Identity), Stripe payments, and SQL Server backend.
 
 **Poker hand evaluator** — .NET implementation exploring lookup tables and hand ranking algorithms.
 
